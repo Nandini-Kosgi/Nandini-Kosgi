@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nandini Kosgi
 =====================================================================================================================================
 
-Data Analyst & Software Developer
+AI Engineer & Data Analyst
 ---------------------------------
 
 * 🌍  I'm based in Pennsylvania
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/nandinikosgi/)
-* ✉️  You can contact me at [NandiniKosgi3@gmail.com](mailto:NandiniKosgi3@gmail.com)
-* 🧠  I'm learning Machine Learning and Business Intelligence Tools
-* 🤝  I'm open to collaborating on Data Analytics Projects and AI Prompts
+* ✉️  You can contact me at [NandiniKosgi3@gmail.com](mailto:Nandini.Kosgi3@gmail.com)
+* 🧠  I'm learning Agentic AI and Generative AI
+* 🤝  I'm open to collaborating on AI Projects
 
 ### Skills
 

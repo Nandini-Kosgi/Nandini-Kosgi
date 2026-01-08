@@ -5,7 +5,6 @@ AI/ML Engineer
 ---------------------------------
 
 * 🌍  I'm based in Pennsylvania
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/nandinikosgi/)
 * ✉️  You can contact me at [NandiniKosgi3@gmail.com](mailto:Nandini.Kosgi3@gmail.com)
 * 🧠  I'm learning Agentic AI and Generative AI
 * 🤝  I'm open to collaborating on AI Projects

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML Engineer
 ---------------------------------
 
-* 🌍  I'm based in Pennsylvania
+* 🌍  I'm based in Columbus,Ohio
 * ✉️  You can contact me at [NandiniKosgi3@gmail.com](mailto:Nandini.Kosgi3@gmail.com)
 * 🧠  I'm learning Agentic AI and Generative AI
 * 🤝  I'm open to collaborating on AI Projects
